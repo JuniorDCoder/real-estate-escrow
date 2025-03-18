@@ -222,6 +222,6 @@ For any issues, reach out via:
 
 ---
 
-🚀 \*\*Start securing real estate trans
-# real-estate-escrow
+## 🚀 Start securing real estate trans
+
 # real-estate-escrow
